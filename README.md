@@ -147,7 +147,8 @@ nav a:hover {
 
 # Pertanyaan dan Tugas
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
- 
+ ![prak2_html6](https://github.com/mullf/Lab2_HTML_ProgWeb/assets/115521049/fd0a5ce2-a9e4-45f2-af81-577666da2b19)
+
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
   - Kalau h1 menggunakan internal dan inline pada penggunaan style nya sedangkan intro menggunakan eksternal css style nya
 
